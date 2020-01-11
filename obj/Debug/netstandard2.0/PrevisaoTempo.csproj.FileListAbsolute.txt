@@ -1,0 +1,13 @@
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\Views\TempoPage.xaml.g.cs
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\PrevisaoTempo.AssemblyInfoInputs.cache
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\PrevisaoTempo.AssemblyInfo.cs
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\bin\Debug\netstandard2.0\PrevisaoTempo.deps.json
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\bin\Debug\netstandard2.0\PrevisaoTempo.dll
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\bin\Debug\netstandard2.0\ref\PrevisaoTempo.dll
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\bin\Debug\netstandard2.0\PrevisaoTempo.pdb
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\PrevisaoTempo.dll
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\ref\PrevisaoTempo.dll
+C:\Users\JonataRafaelZuannyda\source\repos\PrevisaoTempo\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\PrevisaoTempo.pdb
